@@ -23,7 +23,7 @@ HTML and CSS powered by jQuery.
 - THEN the saved events persist
 
 #Screenshot
-![Screenshot](./Screen%20Shot%202022-09-23%20at%209.50.22%20PM.png)
+![Screenshot](./assets/images/Screen%20Shot%202022-09-23%20at%209.50.22%20PM.png)
 
 #Link
 file:///Users/abdidaqane/Downloads/third-party-ap1/05-Third-Party-APIs/02-Challenge/Develop/index.html
